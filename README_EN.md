@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sebastián
 
-💫 **About Me:**  
+**About Me:**  
 💻 Web Developer and Automation Enthusiast  
 ⚡ Building practical solutions with Python, React, and n8n  
 🎓 Student of Computer Science and Artificial Intelligence  
