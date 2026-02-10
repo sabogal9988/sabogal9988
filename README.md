@@ -1,6 +1,6 @@
 # 👋 Hola, soy Sebastián
 
-💫 **Sobre mí:**  
+**Sobre mí:**  
 💻 Desarrollador Web y entusiasta de la Automatización  
 ⚡ Creando soluciones prácticas con Python, React y n8n  
 🎓 Estudiante de Ciencias de la Computación e Inteligencia Artificial  
